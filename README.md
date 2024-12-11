@@ -1,6 +1,7 @@
 <h3>Hello</h3>
 
 - 👋 Hi, I’m @mujiyantosvc
+- 💞️ Working as a lecturer AMIKOM University Of Yogyakarta
 - 👀 I’m interested in Artificial Intelegence
 - 🌱 I’m currently working with Phyton
 - 💞️ I’m looking to collaborate on My AI project
@@ -34,6 +35,14 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+<h3>My Academic Profile</h3>
+- https://ieeexplore.ieee.org/author/915016739255352 IEEE
+- https://sinta.kemdikbud.go.id/authors/profile/6774946 
+- https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en SCHOLAR
+- http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS SCOPUS
+- https://orcid.org/0009-0003-7360-5289 ORCID
+- https://www.researchgate.net/profile/Mujiyanto-Mujiyanto-3 Researchgate
 <!---
 mujiyantosvc/mujiyantosvc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
