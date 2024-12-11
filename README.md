@@ -37,12 +37,68 @@
 </p>
 
 <h3>My Academic Profile</h3>
-- https://ieeexplore.ieee.org/author/915016739255352 IEEE
-- https://sinta.kemdikbud.go.id/authors/profile/6774946 
-- https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en SCHOLAR
-- http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS SCOPUS
-- https://orcid.org/0009-0003-7360-5289 ORCID
-- https://www.researchgate.net/profile/Mujiyanto-Mujiyanto-3 Researchgate
+<style>
+    .profile-list {
+        list-style: none;
+        padding: 0;
+    }
+    .profile-list li {
+        margin: 10px 0;
+        font-size: 16px;
+    }
+    .profile-link {
+        text-decoration: none;
+        color: #000;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+    }
+    .profile-logo {
+        width: 24px;
+        height: 24px;
+        margin-right: 8px;
+    }
+</style>
+
+<ul class="profile-list">
+    <li>
+        <a class="profile-link" href="https://ieeexplore.ieee.org/author/915016739255352" target="_blank">
+            <img class="profile-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/IEEE_logo.svg/512px-IEEE_logo.svg.png" alt="IEEE Logo">
+            IEEE Profile
+        </a>
+    </li>
+    <li>
+        <a class="profile-link" href="https://sinta.kemdikbud.go.id/authors/profile/6774946" target="_blank">
+            <img class="profile-logo" src="https://sinta.kemdikbud.go.id/assets/img/logo_sinta.png" alt="SINTA Logo">
+            SINTA Profile
+        </a>
+    </li>
+    <li>
+        <a class="profile-link" href="https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en" target="_blank">
+            <img class="profile-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Google_Scholar_logo_2015.png/600px-Google_Scholar_logo_2015.png" alt="Google Scholar Logo">
+            Google Scholar Profile
+        </a>
+    </li>
+    <li>
+        <a class="profile-link" href="http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS" target="_blank">
+            <img class="profile-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scopus_logo.svg/512px-Scopus_logo.svg.png" alt="Scopus Logo">
+            Scopus Profile
+        </a>
+    </li>
+    <li>
+        <a class="profile-link" href="https://orcid.org/0009-0003-7360-5289" target="_blank">
+            <img class="profile-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png" alt="ORCID Logo">
+            ORCID Profile
+        </a>
+    </li>
+    <li>
+        <a class="profile-link" href="https://www.researchgate.net/profile/Mujiyanto-Mujiyanto-3" target="_blank">
+            <img class="profile-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/512px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate Logo">
+            ResearchGate Profile
+        </a>
+    </li>
+</ul>
+
 <!---
 mujiyantosvc/mujiyantosvc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
