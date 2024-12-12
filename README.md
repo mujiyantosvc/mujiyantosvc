@@ -8,6 +8,7 @@
 - 📫 How to reach me [https://id.linkedin.com/mujiyanto1](https://www.linkedin.com/in/mujiyanto1/)
 
 <h3>Things I code with</h3>
+<hr>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -37,15 +38,33 @@
 </p>
 
 <h3>My Academic Profile</h3>
-## My Academic Profiles
+<hr>
+<div style="font-family: Arial, sans-serif;">
+    <h2>My Academic Profiles</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 10px;">
+            <img src="https://logonoid.com/images/ieee-logo.png" alt="IEEE Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+            <a href="https://ieeexplore.ieee.org/author/915016739255352" target="_blank" style="text-decoration: none; color: #000;">IEEE Profile</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ORCID_logo.svg/500px-ORCID_logo.svg.png" alt="ORCID Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+            <a href="https://orcid.org/0009-0003-7360-5289" target="_blank" style="text-decoration: none; color: #000;">ORCID Profile</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <img src="https://i0.wp.com/waqasalvi.com/wp-content/uploads/2022/11/google-scholar-png-1.png" alt="Google Scholar Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+            <a href="https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #000;">Google Scholar Profile</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Scopus_logo.svg/640px-Scopus_logo.svg.png" alt="Scopus Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+            <a href="http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS" target="_blank" style="text-decoration: none; color: #000;">Scopus Profile</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <img src="https://stpmsantaursula.ac.id/wp-content/uploads/2019/02/sinta_logo-300x107.png" alt="Sinta Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+            <a href="https://sinta.kemdikbud.go.id/authors/profile/6774946" target="_blank" style="text-decoration: none; color: #000;">SINTA Profile</a>
+        </li>
+    </ul>
+</div>
 
-- [![IEEE Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/IEEE_logo.svg/120px-IEEE_logo.svg.png)](https://ieeexplore.ieee.org/author/915016739255352) **[IEEE Profile](https://ieeexplore.ieee.org/author/915016739255352)**
-
-- [![SINTA Logo](https://sinta.kemdikbud.go.id/assets/img/logo_sinta.png)](https://sinta.kemdikbud.go.id/authors/profile/6774946) **[SINTA Profile](https://sinta.kemdikbud.go.id/authors/profile/6774946)**
-
-- [![Google Scholar Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Google_Scholar_logo_2015.png/100px-Google_Scholar_logo_2015.png)](https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en) **[Google Scholar Profile](https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en)**
-
-- [![Scopus Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scopus_logo.svg/120px-Scopus_logo.svg.png)](http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS) **[Scopus Profile](http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS)**
 
 
 <!---
