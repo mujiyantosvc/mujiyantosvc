@@ -1,6 +1,6 @@
-<h2>Hello.. This is Mujiyanto AMIKOM Profile</h2>
+<h2>Hello.. This is Mujiyanto Mujiyanto AMIKOM Profile</h2>
 
-- 👋 Hi, I’m @mujiyantosvc
+- 👋 Hi, I’m mujiyanto@amikom.ac.id
 - 💞️ Working as a lecturer AMIKOM University Of Yogyakarta
 - 👀 I’m interested in Artificial Intelegence
 - 🌱 I’m currently working with Phyton
