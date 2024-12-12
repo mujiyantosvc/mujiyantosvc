@@ -37,48 +37,15 @@
 </p>
 
 <h3>My Academic Profile</h3>
-<style>
-    .profile-list {
-        list-style: none;
-        padding: 0;
-    }
-    .profile-list li {
-        margin: 10px 0;
-        font-size: 16px;
-    }
-    .profile-link {
-        text-decoration: none;
-        color: #000;
-        font-weight: bold;
-        display: flex;
-        align-items: center;
-    }
-    .profile-logo {
-        width: 24px;
-        height: 24px;
-        margin-right: 8px;
-    }
-</style>
-
 ## My Academic Profiles
 
-[![IEEE](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/IEEE_logo.svg/120px-IEEE_logo.svg.png)](https://ieeexplore.ieee.org/author/915016739255352)
-[**IEEE Profile**](https://ieeexplore.ieee.org/author/915016739255352)
+- [![IEEE Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/IEEE_logo.svg/120px-IEEE_logo.svg.png)](https://ieeexplore.ieee.org/author/915016739255352) **[IEEE Profile](https://ieeexplore.ieee.org/author/915016739255352)**
 
-[![SINTA](https://sinta.kemdikbud.go.id/assets/img/logo_sinta.png)](https://sinta.kemdikbud.go.id/authors/profile/6774946)
-[**SINTA Profile**](https://sinta.kemdikbud.go.id/authors/profile/6774946)
+- [![SINTA Logo](https://sinta.kemdikbud.go.id/assets/img/logo_sinta.png)](https://sinta.kemdikbud.go.id/authors/profile/6774946) **[SINTA Profile](https://sinta.kemdikbud.go.id/authors/profile/6774946)**
 
-[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Google_Scholar_logo_2015.png/150px-Google_Scholar_logo_2015.png)](https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en)
-[**Google Scholar Profile**](https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en)
+- [![Google Scholar Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Google_Scholar_logo_2015.png/100px-Google_Scholar_logo_2015.png)](https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en) **[Google Scholar Profile](https://scholar.google.co.id/citations?user=AFb7b1oAAAAJ&hl=en)**
 
-[![Scopus](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scopus_logo.svg/160px-Scopus_logo.svg.png)](http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS)
-[**Scopus Profile**](http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS)
-
-[![ORCID](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/128px-ORCID_iD.svg.png)](https://orcid.org/0009-0003-7360-5289)
-[**ORCID Profile**](https://orcid.org/0009-0003-7360-5289)
-
-[![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/128px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Mujiyanto-Mujiyanto-3)
-[**ResearchGate Profile**](https://www.researchgate.net/profile/Mujiyanto-Mujiyanto-3)
+- [![Scopus Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scopus_logo.svg/120px-Scopus_logo.svg.png)](http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS) **[Scopus Profile](http://www.scopus.com/inward/authorDetails.url?authorID=59308918800&partnerID=MN8TOARS)**
 
 
 <!---
