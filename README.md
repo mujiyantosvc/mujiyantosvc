@@ -1,4 +1,4 @@
-<h3>Hello</h3>
+<h2>Hello.. This is Mujiyanto AMIKOM Profile</h2>
 
 - 👋 Hi, I’m @mujiyantosvc
 - 💞️ Working as a lecturer AMIKOM University Of Yogyakarta
@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on My AI project
 - 📫 How to reach me [https://id.linkedin.com/mujiyanto1](https://www.linkedin.com/in/mujiyanto1/)
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <hr>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -37,8 +37,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>My Academic Profile</h3>
-<hr>
 <div style="font-family: Arial, sans-serif;">
     <h2>My Academic Profiles</h2>
     <ul style="list-style: none; padding: 0; margin: 0;">
